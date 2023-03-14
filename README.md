@@ -1,0 +1,1 @@
+Provided a fully static and dynamic design for automotive door control system, two ECUs communicating together to control car lights according to door state, light switch state, and car speed state. The dynamic design includes state machine diagram and sequence diagram, while the static design includes the layered architecture of the APIs and block diagram.
